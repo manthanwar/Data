@@ -1,0 +1,196 @@
+Continent,Country,River,Length (km)
+Africa,Algeria,Chelif River,725
+Africa,Angola,Cuanza River,960
+Africa,Benin,Ouémé River,510
+Africa,Botswana,Okavango River,1700
+Africa,Burkina Faso,Volta River System,1500
+Africa,Burundi,Ruzizi River,117
+Africa,Cabo Verde,No permanent rivers (Ribeira de Vinha),Seasonal
+Africa,Cameroon,Sanaga River,918
+Africa,Central African Republic,Ubangi River,2270
+Africa,Chad,Chari River,1400
+Africa,Comoros,No permanent rivers (Wallah stream),Seasonal
+Africa,Democratic Republic of the Congo,Congo River,4700
+Africa,Republic of the Congo,Kouilou-Niari River,560
+Africa,Djibouti,No permanent rivers (Sadai Wadi),Seasonal
+Africa,Egypt,Nile River,6650
+Africa,Equatorial Guinea,Benito River,338
+Africa,Eritrea,Anseba River,346
+Africa,Eswatini,Great Usutu River,465
+Africa,Ethiopia,Blue Nile River,1450
+Africa,Gabon,Ogooué River,1200
+Africa,Gambia,Gambia River,1120
+Africa,Ghana,Volta River System,1500
+Africa,Guinea,Niger River,4200
+Africa,Guinea-Bissau,Geba River,550
+Africa,Ivory Coast,Bandama River,800
+Africa,Kenya,Tana River,1000
+Africa,Lesotho,Orange River,2200
+Africa,Liberia,Cavalla River,515
+Africa,Libya,No permanent rivers (Wadi Mejenin),Seasonal
+Africa,Madagascar,Betsiboka River,525
+Africa,Malawi,Shire River,402
+Africa,Mali,Niger River,4200
+Africa,Mauritania,Senegal River,1790
+Africa,Mauritius,Grand River South East,34
+Africa,Morocco,Draa River,1100
+Africa,Mozambique,Zambezi River,2574
+Africa,Namibia,Fish River,650
+Africa,Niger,Niger River,4200
+Africa,Nigeria,Niger River,4200
+Africa,Rwanda,Nyabarongo River,351
+Africa,Sao Tome and Principe,Ió Grande River,30
+Africa,Senegal,Senegal River,1790
+Africa,Seychelles,No permanent rivers (Riviere Grand Anse),Seasonal
+Africa,Sierra Leone,Rokel River,386
+Africa,Somalia,Shebelle River,1820
+Africa,South Africa,Orange River,2200
+Africa,South Sudan,White Nile River,3700
+Africa,Sudan,Nile River,6650
+Africa,Tanzania,Rufiji River,600
+Africa,Togo,Mono River,467
+Africa,Tunisia,Medjerda River,450
+Africa,Uganda,Victoria Nile,500
+Africa,Zambia,Zambezi River,2574
+Africa,Zimbabwe,Zambezi River,2574
+Americas,Antigua and Barbuda,No permanent rivers (Ayers Creek),Seasonal
+Americas,Argentina,Paraná River,4880
+Americas,Bahamas,No permanent rivers (Goose River tidal creek),24
+Americas,Barbados,No permanent rivers (Constitution River),Seasonal
+Americas,Belize,Belize River,290
+Americas,Bolivia,Mamoré River,1930
+Americas,Brazil,Amazon River,6992
+Americas,Canada,Mackenzie River,4241
+Americas,Chile,Bío Bío River,380
+Americas,Colombia,Magdalena River,1528
+Americas,Costa Rica,San Juan River,192
+Americas,Cuba,Cauto River,343
+Americas,Dominica,Layou River,27
+Americas,Dominican Republic,Yaque del Norte River,298
+Americas,Ecuador,Guayas River,389
+Americas,El Salvador,Lempa River,422
+Americas,Grenada,Saint John's River,15
+Americas,Guatemala,Motagua River,486
+Americas,Guyana,Essequibo River,1010
+Americas,Haiti,Artibonite River,320
+Americas,Honduras,Patuca River,500
+Americas,Jamaica,Rio Grande,40
+Americas,Mexico,Rio Grande (Río Bravo),3057
+Americas,Nicaragua,Coco River,780
+Americas,Panama,Chagres River,193
+Americas,Paraguay,Paraguay River,2695
+Americas,Peru,Ucayali River,1771
+Americas,Saint Kitts and Nevis,No permanent rivers (Wingfield River),Seasonal
+Americas,Saint Lucia,Roseau River,19
+Americas,Saint Vincent and the Grenadines,Colonarie River,8
+Americas,Suriname,Courantyne River,724
+Americas,Trinidad and Tobago,Caroni River,40
+Americas,United States,Mississippi-Missouri-Jefferson System,6275
+Americas,Uruguay,Uruguay River,1838
+Americas,Venezuela,Orinoco River,2140
+Asia,Afghanistan,Helmand River,1150
+Asia,Armenia,Hrazdan River,141
+Asia,Azerbaijan,Kura River,1515
+Asia,Bahrain,No natural rivers,N/A
+Asia,Bangladesh,Padma River,120
+Asia,Bhutan,Manas River,376
+Asia,Brunei,Brunei River,41
+Asia,Cambodia,Mekong River,4350
+Asia,China,Yangtze River,6300
+Asia,Cyprus,Pedieos River,98
+Asia,Georgia,Mtkvari (Kura) River,1515
+Asia,India,Ganges River,2525
+Asia,Indonesia,Kapuas River,1143
+Asia,Iran,Karun River,950
+Asia,Iraq,Tigris River,1850
+Asia,Israel,Jordan River,251
+Asia,Japan,Shinano River,367
+Asia,Jordan,Jordan River,251
+Asia,Kazakhstan,Irtysh River System,4248
+Asia,Kuwait,No permanent rivers (Wadi Al-Batin),Seasonal
+Asia,Kyrgyzstan,Naryn River,807
+Asia,Laos,Mekong River,4350
+Asia,Lebanon,Litani River,140
+Asia,Malaysia,Rajang River,563
+Asia,Maldives,No natural rivers,N/A
+Asia,Mongolia,Selenga River,992
+Asia,Myanmar,Irrawaddy River,2288
+Asia,Nepal,Koshi River System,720
+Asia,North Korea,Yalu River,790
+Asia,Oman,No permanent rivers (Wadi Bani Khalid),Seasonal
+Asia,Pakistan,Indus River,3180
+Asia,Palestine,Jordan River,251
+Asia,Philippines,Cagayan River,505
+Asia,Qatar,No natural rivers,N/A
+Asia,Saudi Arabia,No permanent rivers (Wadi Al-Rimah),Seasonal
+Asia,Singapore,Singapore River,3.2
+Asia,South Korea,Han River,494
+Asia,Sri Lanka,Mahaweli River,335
+Asia,Syria,Euphrates River,2800
+Asia,Tajikistan,Vakhsh River,524
+Asia,Thailand,Chao Phraya River,372
+Asia,Timor-Leste,Loes River,80
+Asia,Turkey,Kizilirmak River,1355
+Asia,Turkmenistan,Amu Darya,2540
+Asia,United Arab Emirates,No permanent rivers (Wadi Bih),Seasonal
+Asia,Uzbekistan,Syr Darya,2212
+Asia,Vietnam,Red River,1149
+Asia,Yemen,No permanent rivers (Wadi Hadramaut),Seasonal
+Europe,Albania,Drin River,335
+Europe,Andorra,Valira River,44
+Europe,Austria,Danube River,2850
+Europe,Belarus,Dnieper River,2201
+Europe,Belgium,Meuse River,925
+Europe,Bosnia and Herzegovina,Neretva River,225
+Europe,Bulgaria,Danube River,2850
+Europe,Croatia,Sava River,990
+Europe,Czech Republic,Vltava River,430
+Europe,Denmark,Gudenå River,176
+Europe,Estonia,Pärnu River,144
+Europe,Finland,Kemijoki River,550
+Europe,France,Seine River,777
+Europe,Germany,Rhine River,1230
+Europe,Greece,Aliakmon River,297
+Europe,Hungary,Danube River,2850
+Europe,Iceland,Þjórsá River,230
+Europe,Ireland,Shannon River,360
+Europe,Italy,Po River,652
+Europe,Latvia,Daugava River,1020
+Europe,Liechtenstein,Rhine River,1230
+Europe,Lithuania,Nemunas River,917
+Europe,Luxembourg,Moselle River,544
+Europe,Malta,No permanent rivers (Wadi Wied il-Għasri),Seasonal
+Europe,Moldova,Dniester River,1362
+Europe,Monaco,No natural rivers,N/A
+Europe,Montenegro,Tara River,146
+Europe,Netherlands,Rhine River,1230
+Europe,North Macedonia,Vardar River,388
+Europe,Norway,Glomma River,621
+Europe,Poland,Vistula River,1047
+Europe,Portugal,Tagus River,1007
+Europe,Romania,Danube River,2850
+Europe,Russia,Volga River,3530
+Europe,San Marino,San Marino River,26
+Europe,Serbia,Danube River,2850
+Europe,Slovakia,Danube River,2850
+Europe,Slovenia,Sava River,990
+Europe,Spain,Ebro River,910
+Europe,Sweden,Torne River,520
+Europe,Switzerland,Rhine River,1230
+Europe,Ukraine,Dnieper River,2201
+Europe,United Kingdom,River Thames,346
+Europe,Vatican City,No natural rivers (Borders Tiber),405
+Oceania,Australia,Murray-Darling System,3672
+Oceania,Fiji,Rewa River,145
+Oceania,Kiribati,No natural rivers,N/A
+Oceania,Marshall Islands,No natural rivers,N/A
+Oceania,Micronesia,Doke River,4
+Oceania,Nauru,No natural rivers,N/A
+Oceania,New Zealand,Waikato River,425
+Oceania,Palau,Ngerdorch River,10
+Oceania,Papua New Guinea,Sepik River,1126
+Oceania,Samoa,Vaisigano River,15
+Oceania,Solomon Islands,Lunga River,45
+Oceania,Tonga,No natural rivers,N/A
+Oceania,Tuvalu,No natural rivers,N/A
+Oceania,Vanuatu,Sarakata River,25

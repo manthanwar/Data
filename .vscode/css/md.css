@@ -1,0 +1,54 @@
+html {
+ margin: 0px;
+ padding: 0px;
+}
+
+body {
+ padding: 20px;
+ background-color: white;
+ color: black;
+ /* font-size: 16px; */
+}
+
+code {
+ padding: 2px 10px;
+ background-color: black;
+ color: white;
+}
+
+pre {
+ background-color: green;
+ color: black;
+}
+
+blockquote {
+ margin: 20px;
+ padding: 10px 20px 5px 20px;
+ background: linear-gradient(to right, #f9f9f9, #fff);
+ /* background-color: whitesmoke; */
+ border-left: 5px solid #007acc;
+ border-radius: 4px;
+ font-style: italic;
+ box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+ border-left: 5px solid #3d444d;
+}
+
+blockquote blockquote {
+ margin: 0px;
+ padding: 0px 20px;
+ border-left: none;
+}
+
+blockquote details {
+ margin-left: 24px;
+}
+
+ul li {
+ margin-left: 0px;
+ padding-left: 0px;
+}
+
+ul li ul {
+ margin-left: 20px;
+ padding-left: 0px;
+}
